@@ -98,3 +98,29 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+
+/* fourth section */
+.fourth-section{
+    margin-top: 320px;
+    margin-left: 385px;
+}
+
+.red-text{
+    color: red;
+    text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; 
+text-transform: capitalize;
+}
+.black-text{
+    color: black;
+    font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px;
+text-transform: capitalize;
+}
