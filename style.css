@@ -51,3 +51,50 @@ line-height: normal;
 height: 300px;
 flex-shrink: 0;
 }
+/* third section */
+.vector{
+    width: 1320px;
+    height:500px;
+    margin-left: 20px;
+    margin-top: 15px;
+    position: absolute;
+}
+.absolute{
+    position: relative;
+    top: 200px;
+}
+.welcome{
+    color: white;
+    width: 600px;
+    margin-left: 450px;
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+}
+.Dolor{
+    color: rgba(255, 255, 255, 0.80);
+    width: 800px;
+font-family: Inter;
+margin-left: 250px;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+}
+.button{
+    color: #FFF;
+background-color: black;
+margin-left: 250px;
+margin-top: 20px;
+cursor: pointer;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
