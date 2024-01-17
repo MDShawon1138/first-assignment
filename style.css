@@ -102,7 +102,18 @@ text-transform: uppercase;
 /* fourth section */
 .fourth-section{
     margin-top: 320px;
-    margin-left: 385px;
+   padding: 70px 0 0 420px;
+    width: full;
+height: 300px;
+border-radius: 60px;
+background-color: rgb(228, 216, 238);
+margin-bottom: 30px;
+}
+.place{
+    margin-left: 80px;
+}
+.December{
+    margin-left: 40px
 }
 
 .red-text{
@@ -115,6 +126,23 @@ font-weight: 600;
 line-height: 56px; 
 text-transform: capitalize;
 }
+.btn-2{
+    color: #FFF;
+     background-color: red;
+   margin-left: 240px;
+   cursor: pointer;
+   margin-top: 15px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 15px;
+}
 .black-text{
     color: black;
     font-family: Inter;
@@ -123,4 +151,59 @@ font-style: normal;
 font-weight: 600;
 line-height: 56px;
 text-transform: capitalize;
+}
+/* fifthe */
+.fifth{
+    display: flex;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.fifth-section{
+ 
+   
+    width: full;
+height: 300px;
+border-radius: 60px;
+background-color:white;
+margin-bottom: 30px;
+}
+.new{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.Coming{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.sit{
+    color: rgba(7, 2, 17, 0.60);
+    width: 393px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 160% */
+}
+
+.number{
+    color: #F00;
+
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
 }
