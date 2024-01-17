@@ -207,3 +207,81 @@ font-style: normal;
 font-weight: 700;
 line-height: normal;
 }
+
+/* sixth */
+.sixth{
+    margin-top: 200px
+}
+.short{
+   margin-left: 450px;
+}
+.img-group{
+    margin-left: 150px;
+}
+.what{
+    color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.Holidays{
+    color: #F00;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+}
+.Sale{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.group-photo{
+    width: 500px;
+    height: 400px;
+}
+.Rectangle{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+}
+.grp-44{
+  position: relative;
+  margin-right: -130px;
+  z-index: 1;
+}
+
+/* seventh */
+.seventh{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+}
+.BEST{
+    color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.Awesome{
+    color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
