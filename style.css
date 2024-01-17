@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.banner-image{
+    width: 1320px;
+height:500px;
+margin-left: 20px;
+margin-top: 15px;
+}
